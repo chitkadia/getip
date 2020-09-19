@@ -1,0 +1,14 @@
+{
+  "name": "getipaddress",
+  "version": "1.0.0",
+  "description": "This package gets ip address of client's machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarak Kadiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
